@@ -1,0 +1,6 @@
+Lessons learned from Nodejitsu class
+
+Do not do this on Windows.  You can try but still tricky.  Did a Ubuntu server instead and got some resources from people.
+
+http://blog.danhulton.com/2011/03/18/setting-up-a-virtual-machine-for-node-js-development-on-windows-7/
+
